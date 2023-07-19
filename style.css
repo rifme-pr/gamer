@@ -347,8 +347,8 @@ footer > .footer-logo > .title, .footer-item > a, .footer-condition > a, .copyri
         justify-content: center;
         padding-top: 30px;
     }
-    .online-games>h2 {
-        font-size: 1.50rem;
+    .online-games-title{
+        text-align: center;
     }
     .online-games {
         gap: 15px;
@@ -445,6 +445,9 @@ footer > .footer-logo > .title, .footer-item > a, .footer-condition > a, .copyri
     }
     .online-games {
         gap: 10px;
+    }
+    .online-games-title{
+        text-align: center;
     }
     .funny-vdo {        
         justify-content: space-between;
